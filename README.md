@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ### 2. Start the Server
 Execute the following command to start the chatbot server:
 ```sh
-python ing.py
+python ing.py --api
 ```
 
 ## Data Ingestion
